@@ -36,8 +36,8 @@ function modelLoaded(){
 	}
 }
 
-/*function draw() {
+function draw() {
 	game()
-}*/
+}
 
 
